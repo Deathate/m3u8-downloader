@@ -1,0 +1,6 @@
+﻿LOG 2023/04/21
+Save Path: d:\Desktop\大碩下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/21 12:38:03
+Task CommandLine: d:\Desktop\大碩下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/ezAJdPth/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Downloads --saveName "如懿傳 第53集"
+
+12:38:04.016 / (NORMAL) Start Parsing https://ukzy.ukubf3.com/20220517/ezAJdPth/2000kb/hls/index.m3u8

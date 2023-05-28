@@ -1,0 +1,19 @@
+﻿LOG 2023/04/29
+Save Path: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/29 10:53:38
+Task CommandLine: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/dLWxUf9u/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Desktop\如意傳 --saveName "如懿傳 第67集"
+
+10:53:38.554 / (NORMAL) 開始解析 https://ukzy.ukubf3.com/20220517/dLWxUf9u/2000kb/hls/index.m3u8
+10:53:40.340 / (NORMAL) 寫出meta.json
+10:53:40.414 / (NORMAL) 開始下載文件
+10:53:41.974 / (NORMAL) 讀取文件信息...
+10:53:42.011 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+10:53:42.011 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 67 kb/s
+10:57:18.264 / (NORMAL) 開始合並分片...
+10:57:20.643 / (NORMAL) 結果輸出至 [ffreport.log]
+10:57:20.643 / (NORMAL) 任務結束
+
+Task End: 2023/04/29 10:57:20
+File: C:\Users\aaron\Desktop\如意傳\如懿傳 第67集.mp4
+
+

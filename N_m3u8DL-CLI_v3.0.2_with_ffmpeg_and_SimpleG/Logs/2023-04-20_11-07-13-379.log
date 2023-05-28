@@ -1,0 +1,21 @@
+﻿LOG 2023/04/20
+Save Path: C:\Users\aaron\Desktop\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/20 11:07:13
+Task CommandLine: "C:\Users\aaron\Desktop\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe" "https://ukzy.ukubf3.com/20220517/byuyOswg/2000kb/hls/index.m3u8" --workDir "C:\Users\aaron\Downloads" 
+
+11:07:13.381 / (NORMAL) Start Parsing https://ukzy.ukubf3.com/20220517/byuyOswg/2000kb/hls/index.m3u8
+11:07:15.514 / (NORMAL) Writing Json: [meta.json]
+11:07:15.594 / (NORMAL) Start Downloading
+11:07:17.719 / (NORMAL) Reading File Info...
+11:07:17.785 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+11:07:17.785 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 66 kb/s
+11:09:05.303 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/byuyOswg/2000kb/hls/v7z01YmH.ts
+11:09:06.316 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/byuyOswg/2000kb/hls/v7z01YmH.ts
+11:10:55.045 / (NORMAL) Start Merging...
+11:10:56.530 / (NORMAL) Result in [ffreport.log]
+11:10:56.530 / (NORMAL) Task Done
+
+Task End: 2023/04/20 11:10:56
+File: C:\Users\aaron\Downloads\index_20230420110713.mp4
+
+

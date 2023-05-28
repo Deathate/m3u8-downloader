@@ -1,0 +1,14 @@
+﻿LOG 2023/04/21
+Save Path: d:\Desktop\大碩下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/21 12:49:59
+Task CommandLine: d:\Desktop\大碩下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Downloads --saveName "如懿傳 第55集"
+
+12:49:59.323 / (NORMAL) Start Parsing https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/index.m3u8
+12:49:59.636 / (NORMAL) The request was aborted: Could not create SSL/TLS secure channel.
+12:49:59.647 / (ERROR) The request was aborted: Could not create SSL/TLS secure channel.
+12:50:01.977 / (NORMAL) The request was aborted: Could not create SSL/TLS secure channel.
+12:50:01.985 / (ERROR) The request was aborted: Could not create SSL/TLS secure channel.
+12:50:03.309 / (NORMAL) The request was aborted: Could not create SSL/TLS secure channel.
+12:50:03.318 / (ERROR) The request was aborted: Could not create SSL/TLS secure channel.
+12:50:04.637 / (NORMAL) The request was aborted: Could not create SSL/TLS secure channel.
+12:50:04.646 / (ERROR) The request was aborted: Could not create SSL/TLS secure channel.

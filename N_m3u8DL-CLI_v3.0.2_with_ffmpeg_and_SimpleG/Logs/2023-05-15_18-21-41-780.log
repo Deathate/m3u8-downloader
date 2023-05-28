@@ -1,0 +1,41 @@
+﻿LOG 2023/05/15
+Save Path: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/05/15 18:21:41
+Task CommandLine: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Downloads --saveName "如懿傳 第82集"
+
+18:21:41.782 / (NORMAL) 開始解析 https://ukzy.ukubf3.com/20220517/saZyq6z9/2000kb/hls/index.m3u8
+18:21:41.783 / (NORMAL) 開始解析 https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/index.m3u8
+18:21:43.673 / (NORMAL) 寫出meta.json
+18:21:43.756 / (NORMAL) 開始下載文件
+18:21:44.421 / (NORMAL) 寫出meta.json
+18:21:44.499 / (NORMAL) 開始下載文件
+18:21:45.640 / (NORMAL) 讀取文件信息...
+18:21:45.744 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+18:21:45.744 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 73 kb/s
+18:21:46.274 / (NORMAL) 讀取文件信息...
+18:21:46.325 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+18:21:46.326 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 70 kb/s
+18:22:45.590 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/IntQHKbO.ts
+18:22:46.602 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/IntQHKbO.ts
+18:23:24.082 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/saZyq6z9/2000kb/hls/BeZxctzp.ts
+18:23:25.088 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/saZyq6z9/2000kb/hls/BeZxctzp.ts
+18:23:52.484 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/1FC63CUn.ts
+18:23:53.488 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/1FC63CUn.ts
+18:24:17.828 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/pNokEhKB.ts
+18:24:18.830 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/bGfaetpd/2000kb/hls/pNokEhKB.ts
+18:25:39.736 / (NORMAL) 開始合並分片...
+18:25:43.303 / (NORMAL) 結果輸出至 [ffreport.log]
+18:25:43.303 / (NORMAL) 任務結束
+
+Task End: 2023/05/15 18:25:43
+File: C:\Users\aaron\Downloads\如懿傳 第82集.mp4
+
+
+18:25:43.411 / (NORMAL) 開始合並分片...
+18:25:46.435 / (NORMAL) 結果輸出至 [ffreport.log]
+18:25:46.435 / (NORMAL) 任務結束
+
+Task End: 2023/05/15 18:25:46
+File: C:\Users\aaron\Downloads\如懿傳 第84集.mp4
+
+

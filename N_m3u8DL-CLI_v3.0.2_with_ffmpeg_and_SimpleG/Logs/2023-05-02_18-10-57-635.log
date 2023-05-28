@@ -1,0 +1,25 @@
+﻿LOG 2023/05/02
+Save Path: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/05/02 18:10:57
+Task CommandLine: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Desktop\如意傳 --saveName "如懿傳 第73集"
+
+18:10:57.642 / (NORMAL) 開始解析 https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/index.m3u8
+18:11:00.156 / (NORMAL) 寫出meta.json
+18:11:00.242 / (NORMAL) 開始下載文件
+18:11:02.940 / (NORMAL) 讀取文件信息...
+18:11:02.985 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+18:11:02.985 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 68 kb/s
+18:12:33.392 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/x9d7XLvV.ts
+18:12:34.406 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/x9d7XLvV.ts
+18:13:37.265 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/DrSJtEV4.ts
+18:13:38.276 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/DrSJtEV4.ts
+18:14:14.438 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/MbuahTT7.ts
+18:14:15.454 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/lsEj2Ki7/2000kb/hls/MbuahTT7.ts
+18:14:49.319 / (NORMAL) 開始合並分片...
+18:14:52.140 / (NORMAL) 結果輸出至 [ffreport.log]
+18:14:52.140 / (NORMAL) 任務結束
+
+Task End: 2023/05/02 18:14:52
+File: C:\Users\aaron\Desktop\如意傳\如懿傳 第73集.mp4
+
+

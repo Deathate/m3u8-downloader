@@ -1,0 +1,47 @@
+﻿LOG 2023/04/21
+Save Path: d:\Desktop\大碩下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/21 12:38:03
+Task CommandLine: d:\Desktop\大碩下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Downloads --saveName "如懿傳 第55集"
+
+12:38:04.009 / (NORMAL) Start Parsing https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/index.m3u8
+12:38:08.850 / (NORMAL) Writing Json: [meta.json]
+12:38:08.942 / (NORMAL) Start Downloading
+12:38:24.316 / (NORMAL) Reading File Info...
+12:38:24.453 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+12:38:24.453 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 69 kb/s
+12:38:50.154 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/Xbnw0vxG.ts
+12:38:51.172 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/Xbnw0vxG.ts
+12:39:14.453 / (ERROR) DOWN: The operation has timed out https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/mqn1ZkHk.ts
+12:39:15.476 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/mqn1ZkHk.ts
+12:39:18.161 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/B9yBsWa6.ts
+12:39:18.315 / (ERROR) DOWN: The operation has timed out https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/HO1yQbJd.ts
+12:39:19.176 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/B9yBsWa6.ts
+12:39:19.333 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/HO1yQbJd.ts
+12:39:22.012 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/rU74x9PV.ts
+12:39:23.025 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/rU74x9PV.ts
+12:39:25.513 / (ERROR) DOWN: The operation has timed out https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/mqn1ZkHk.ts
+12:39:26.526 / (ERROR) DOWN: AUTO RETRY 2/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/mqn1ZkHk.ts
+12:39:36.574 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/B9yBsWa6.ts
+12:39:37.585 / (ERROR) DOWN: AUTO RETRY 2/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/B9yBsWa6.ts
+12:39:49.335 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/4eNJ2gCV.ts
+12:39:50.358 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/4eNJ2gCV.ts
+12:39:55.843 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/AQcRXMWZ.ts
+12:39:56.859 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/AQcRXMWZ.ts
+12:40:00.447 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/rU74x9PV.ts
+12:40:01.470 / (ERROR) DOWN: AUTO RETRY 2/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/rU74x9PV.ts
+12:40:04.494 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/FpDdRN9G.ts
+12:40:05.501 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/FpDdRN9G.ts
+12:40:06.878 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/4eNJ2gCV.ts
+12:40:07.891 / (ERROR) DOWN: AUTO RETRY 2/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/4eNJ2gCV.ts
+12:40:08.697 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/cYUMzx9z.ts
+12:40:09.410 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/qbaDWaoU.ts
+12:40:09.716 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/cYUMzx9z.ts
+12:40:10.422 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/qbaDWaoU.ts
+12:40:12.293 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/xxN9NwUf.ts
+12:40:13.310 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/xxN9NwUf.ts
+12:40:15.533 / (ERROR) DOWN: The operation has timed out https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/FpDdRN9G.ts
+12:40:16.539 / (ERROR) DOWN: AUTO RETRY 2/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/FpDdRN9G.ts
+12:40:19.748 / (ERROR) DOWN: The operation has timed out https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/cYUMzx9z.ts
+12:40:20.769 / (ERROR) DOWN: AUTO RETRY 2/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/cYUMzx9z.ts
+12:40:20.865 / (ERROR) DOWN: The operation has timed out. https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/TSGQLRoO.ts
+12:40:21.882 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/mGTzAzAy/2000kb/hls/TSGQLRoO.ts

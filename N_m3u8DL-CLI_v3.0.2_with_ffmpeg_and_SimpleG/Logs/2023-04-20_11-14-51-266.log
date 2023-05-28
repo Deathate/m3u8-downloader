@@ -1,0 +1,19 @@
+﻿LOG 2023/04/20
+Save Path: C:\Users\aaron\Desktop\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/20 11:14:51
+Task CommandLine: "C:\Users\aaron\Desktop\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe" "https://ukzy.ukubf3.com/20220517/xsUKsvaa/2000kb/hls/index.m3u8" --workDir "C:\Users\aaron\Downloads" --saveName "如懿傳 第45集" 
+
+11:14:51.267 / (NORMAL) Start Parsing https://ukzy.ukubf3.com/20220517/xsUKsvaa/2000kb/hls/index.m3u8
+11:14:54.942 / (NORMAL) Writing Json: [meta.json]
+11:14:55.015 / (NORMAL) Start Downloading
+11:14:57.637 / (NORMAL) Reading File Info...
+11:14:57.675 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+11:14:57.677 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 66 kb/s
+11:17:54.407 / (NORMAL) Start Merging...
+11:17:56.222 / (NORMAL) Result in [ffreport.log]
+11:17:56.223 / (NORMAL) Task Done
+
+Task End: 2023/04/20 11:17:56
+File: C:\Users\aaron\Downloads\如懿傳 第45集.mp4
+
+

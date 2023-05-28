@@ -1,0 +1,19 @@
+﻿LOG 2023/04/21
+Save Path: C:\Users\aaron\Desktop\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/21 10:38:03
+Task CommandLine: "C:\Users\aaron\Desktop\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe" "https://ukzy.ukubf3.com/20220517/nqdiQBSa/2000kb/hls/index.m3u8" --workDir "C:\Users\aaron\Downloads" --saveName "如懿傳 第51集" 
+
+10:38:03.301 / (NORMAL) Start Parsing https://ukzy.ukubf3.com/20220517/nqdiQBSa/2000kb/hls/index.m3u8
+10:38:05.455 / (NORMAL) Writing Json: [meta.json]
+10:38:05.522 / (NORMAL) Start Downloading
+10:38:08.914 / (NORMAL) Reading File Info...
+10:38:08.952 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+10:38:08.952 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 70 kb/s
+10:41:21.650 / (NORMAL) Start Merging...
+10:41:23.014 / (NORMAL) Result in [ffreport.log]
+10:41:23.014 / (NORMAL) Task Done
+
+Task End: 2023/04/21 10:41:23
+File: C:\Users\aaron\Downloads\如懿傳 第51集.mp4
+
+

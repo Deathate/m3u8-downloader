@@ -1,0 +1,19 @@
+﻿LOG 2023/04/29
+Save Path: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/29 10:46:24
+Task CommandLine: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/emZTVcFz/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Desktop\如意傳 --saveName "如懿傳 第61集"
+
+10:46:24.525 / (NORMAL) 開始解析 https://ukzy.ukubf3.com/20220517/emZTVcFz/2000kb/hls/index.m3u8
+10:46:26.375 / (NORMAL) 寫出meta.json
+10:46:26.475 / (NORMAL) 開始下載文件
+10:46:27.745 / (NORMAL) 讀取文件信息...
+10:46:27.786 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+10:46:27.787 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 67 kb/s
+10:49:31.489 / (NORMAL) 開始合並分片...
+10:49:33.812 / (NORMAL) 結果輸出至 [ffreport.log]
+10:49:33.812 / (NORMAL) 任務結束
+
+Task End: 2023/04/29 10:49:33
+File: C:\Users\aaron\Desktop\如意傳\如懿傳 第61集.mp4
+
+

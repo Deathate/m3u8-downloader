@@ -1,0 +1,21 @@
+﻿LOG 2023/04/29
+Save Path: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/04/29 10:53:38
+Task CommandLine: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/ZnyNkdMo/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Desktop\如意傳 --saveName "如懿傳 第66集"
+
+10:53:38.318 / (NORMAL) 開始解析 https://ukzy.ukubf3.com/20220517/ZnyNkdMo/2000kb/hls/index.m3u8
+10:53:40.187 / (NORMAL) 寫出meta.json
+10:53:40.262 / (NORMAL) 開始下載文件
+10:53:41.744 / (NORMAL) 讀取文件信息...
+10:53:41.781 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+10:53:41.782 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 70 kb/s
+10:56:39.459 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/ZnyNkdMo/2000kb/hls/uZWFtldL.ts
+10:56:40.470 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/ZnyNkdMo/2000kb/hls/uZWFtldL.ts
+10:57:07.807 / (NORMAL) 開始合並分片...
+10:57:09.276 / (NORMAL) 結果輸出至 [ffreport.log]
+10:57:09.277 / (NORMAL) 任務結束
+
+Task End: 2023/04/29 10:57:09
+File: C:\Users\aaron\Desktop\如意傳\如懿傳 第66集.mp4
+
+

@@ -1,0 +1,25 @@
+﻿LOG 2023/05/15
+Save Path: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\Logs
+Task Start: 2023/05/15 18:21:41
+Task CommandLine: c:\Users\aaron\Desktop\m3u8下載器\N_m3u8DL-CLI_v3.0.2_with_ffmpeg_and_SimpleG\N_m3u8DL-CLI_v3.0.2.exe https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/index.m3u8 --workDir C:\Users\aaron\Downloads --saveName "如懿傳 第83集"
+
+18:21:41.782 / (NORMAL) 開始解析 https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/index.m3u8
+18:21:44.301 / (NORMAL) 寫出meta.json
+18:21:44.380 / (NORMAL) 開始下載文件
+18:21:46.262 / (NORMAL) 讀取文件信息...
+18:21:46.314 / (NORMAL) PID 0x100: Video h264, yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc
+18:21:46.316 / (NORMAL) PID 0x101: Audio aac, 44100 Hz, stereo, fltp, 68 kb/s
+18:23:25.654 / (ERROR) DOWN: 作業逾時 https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/mb3dSCQY.ts
+18:23:26.656 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/mb3dSCQY.ts
+18:23:36.347 / (ERROR) DOWN: 作業逾時 https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/atZsOuQd.ts
+18:23:37.355 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/atZsOuQd.ts
+18:23:42.456 / (ERROR) DOWN: 作業逾時。 https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/gT17hAQn.ts
+18:23:43.467 / (ERROR) DOWN: AUTO RETRY 1/3 https://ukzy.ukubf3.com/20220517/ivBEakI2/2000kb/hls/gT17hAQn.ts
+18:25:32.962 / (NORMAL) 開始合並分片...
+18:25:35.004 / (NORMAL) 結果輸出至 [ffreport.log]
+18:25:35.005 / (NORMAL) 任務結束
+
+Task End: 2023/05/15 18:25:35
+File: C:\Users\aaron\Downloads\如懿傳 第83集.mp4
+
+
